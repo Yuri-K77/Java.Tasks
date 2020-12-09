@@ -2,8 +2,6 @@ package Java.Collections;
 
 import Java.Collections.Wagons.Wagon;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class Train{

@@ -2,9 +2,8 @@ package Java.Collections.Wagons;
 
 import Java.Collections.Passenger;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
+
 
 public abstract class Wagon {
     private String categoryOfWagon;

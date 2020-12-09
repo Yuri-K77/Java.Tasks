@@ -19,14 +19,11 @@ package Java.Collections;
 import Java.Collections.Wagons.ComfortWagon;
 import Java.Collections.Wagons.CommonWagon;
 import Java.Collections.Wagons.Wagon;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        Java.Collections.Train train = new Train("Москва");
+        Java.Collections.Train train = new Train("Moscow");
         System.out.println(train.toString());
 
         Passenger Pol = new Passenger ("male", "Paul", 45);
